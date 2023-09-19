@@ -3,8 +3,17 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.WriteLine("Введите три числа ");
-    int a = int.Parse(Console.ReadLine());
-    int b = int.Parse(Console.ReadLine());
-    int c = int.Parse(Console.ReadLine());
-    
+
+Console.WriteLine("Введите 3 числа:");
+        int a = Int32.Parse(Console.ReadLine());
+        int b = Int32.Parse(Console.ReadLine());
+        int c = Int32.Parse(Console.ReadLine());
+ 
+        int maximal = Math.Max(Math.Max(a, b), c);
+        int minimal = Math.Min(Math.Min(a, b), c);
+ 
+        Console.WriteLine("{0} -> {1} -> {2}",
+            minimal,
+            a + b + c - maximal - minimal,
+            maximal);
+
