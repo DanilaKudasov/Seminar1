@@ -8,8 +8,8 @@ int num1 = int.Parse(Console.ReadLine());
 Console.Write("Введите число 2 -> ");
 int num2 = int.Parse(Console.ReadLine());
 if (num1 > num2) Console.WriteLine("Число 1 больше");
-else Console.Write("Число 2 больше");
-
+else if (num1 < num2) Console.Write("Число 2 больше");
+else Console.Write ("Числа равны");
 
 
 
