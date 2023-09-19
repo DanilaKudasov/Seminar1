@@ -1,0 +1,14 @@
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.AssemblyInfoInputs.cache
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.AssemblyInfo.cs
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.csproj.CoreCompileInputs.cache
+D:\учеба\Домашнее задание\task6\bin\Debug\net7.0\task6.exe
+D:\учеба\Домашнее задание\task6\bin\Debug\net7.0\task6.deps.json
+D:\учеба\Домашнее задание\task6\bin\Debug\net7.0\task6.runtimeconfig.json
+D:\учеба\Домашнее задание\task6\bin\Debug\net7.0\task6.dll
+D:\учеба\Домашнее задание\task6\bin\Debug\net7.0\task6.pdb
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.dll
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\refint\task6.dll
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.pdb
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\task6.genruntimeconfig.cache
+D:\учеба\Домашнее задание\task6\obj\Debug\net7.0\ref\task6.dll
