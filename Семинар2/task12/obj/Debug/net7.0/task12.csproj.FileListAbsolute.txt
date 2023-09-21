@@ -1,0 +1,14 @@
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.AssemblyInfoInputs.cache
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.AssemblyInfo.cs
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.csproj.CoreCompileInputs.cache
+D:\учеба\Семинар2\task12\bin\Debug\net7.0\task12.exe
+D:\учеба\Семинар2\task12\bin\Debug\net7.0\task12.deps.json
+D:\учеба\Семинар2\task12\bin\Debug\net7.0\task12.runtimeconfig.json
+D:\учеба\Семинар2\task12\bin\Debug\net7.0\task12.dll
+D:\учеба\Семинар2\task12\bin\Debug\net7.0\task12.pdb
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.dll
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\refint\task12.dll
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.pdb
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\task12.genruntimeconfig.cache
+D:\учеба\Семинар2\task12\obj\Debug\net7.0\ref\task12.dll
