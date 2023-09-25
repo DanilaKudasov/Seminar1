@@ -1,0 +1,14 @@
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+D:\учеба\Семинар2\Домашнее задание\task15\bin\Debug\net7.0\task15.exe
+D:\учеба\Семинар2\Домашнее задание\task15\bin\Debug\net7.0\task15.deps.json
+D:\учеба\Семинар2\Домашнее задание\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+D:\учеба\Семинар2\Домашнее задание\task15\bin\Debug\net7.0\task15.dll
+D:\учеба\Семинар2\Домашнее задание\task15\bin\Debug\net7.0\task15.pdb
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.dll
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\refint\task15.dll
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.pdb
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+D:\учеба\Семинар2\Домашнее задание\task15\obj\Debug\net7.0\ref\task15.dll
